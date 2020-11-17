@@ -1,5 +1,6 @@
 {
     "defaultHeaders": {
-        "content-type": "application/json"
+        "Content-Type": "application/json",
+        "Cache-Control": "no-cache"
       }
 }
