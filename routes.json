@@ -1,5 +1,8 @@
 {
     "routes": [],
+    "mimeTypes": {
+      "": "application/json"
+    },
     "defaultHeaders": {
         "Content-Type": "application/json",
         "Cache-Control": "no-cache"
