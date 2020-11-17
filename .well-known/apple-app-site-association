@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "X4GV4G44PJ.de.sinnleffers.sinnappTest",
+                "paths": [ "/Content/*"]
+            }
+        ]
+    }
+}

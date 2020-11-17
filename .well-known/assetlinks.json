@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "de.sinnleffers.sinnappTest",
+               "sha256_cert_fingerprints": ["D5:4E:FD:EB:66:3B:04:5B:9A:7F:A3:2C:8A:7C:A6:D8:5F:06:65:58:67:57:FD:DB:6E:C8:09:97:3C:81:08:98"] }
+}]
