@@ -1,5 +1,5 @@
 {
-    "mimeTypes": {
-        "": "application/json"
-    }
+    "defaultHeaders": {
+        "content-type": "application/json"
+      }
 }
